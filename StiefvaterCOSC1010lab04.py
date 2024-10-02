@@ -2,7 +2,7 @@
 # UWYO COSC 1010
 # 19/02/24
 # Lab 04 
-# Lab Section: Wednesday 3-5
+# Lab Section:15
 # Sources, people worked with, help given to: 
 # your
 # comments
